@@ -1,0 +1,8 @@
+[package]
+name = "Snake"
+version = "0.1.0"
+authors = ["alexisvisco <alexis.viscogliosi@outlook.fr>"]
+
+[dependencies]
+rand = "*"
+piston_window = "*"
